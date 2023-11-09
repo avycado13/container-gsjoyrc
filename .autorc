@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "avycado13",
+  "repo": "container-gsjoyrc",
+  "name": "avycado13",
+  "email": "avyay.chundi@gmail.com",
+}
